@@ -147,7 +147,7 @@
 .main-bottom-container {
   display: flex;
   justify-content: left;
-  width: 1200px;
+  width: 100%;
   height: auto;
   margin: auto;
 }
@@ -204,4 +204,80 @@
   font-size: 12px;
   font-weight: 400;
   color: whitesmoke;
+}
+
+
+
+
+@media(max-width: 375px) {
+  /* 내비게이션 */
+  .navbar-brand img {
+    max-width: 80px;
+  }
+
+  /* top영역 */
+  .main-top-container {
+    padding: 50px;
+    height: 600px;
+  }
+  .main-top-title {
+    padding: 10px;
+    margin-bottom: 30px;
+  }
+  .main-top-subtitle {
+    font-size: 10px;
+  }
+  .main-top-maintitle {
+    font-size: 20px;
+  }
+  .main-top-logoArea,
+  .main-top-cardbox {
+    display: none;
+  }
+
+
+
+  /* mid 영역 */
+  .main-mid-container {
+    height: 600px;
+    padding: 50px;
+  }
+  .main-mid-title {
+    font-size: 30px;
+    padding: 3px;
+  }
+  .mid-subtitleStyle {
+    font-size: 10px;
+  }
+  
+  .main-mid-imgarea {
+    height: 300px;
+  }
+  .mid-imgStyle {
+    width: 300px;
+  }
+
+  /* bottom영역 */
+  .main-bottom {
+    padding: 30px;
+    margin-bottom: 300px;
+  }
+  .main-bottom-title {
+    font-size: 30px;
+  }
+  .bottom-subtitleStyle {
+    font-size: 10px;
+  }
+  .bottom-imgbox {
+    width: 60px;
+    height: 60px;
+    padding: 3px;
+  }
+  .image-box-text {
+    font-size: 12px;
+  }
+  .image-box-subtext {
+    font-size: 8px;
+  }
+
 }
