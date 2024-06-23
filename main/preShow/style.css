@@ -10,13 +10,23 @@ body {
   font-family: "Noto Sans", sans-serif;
 }
 
+.mgt-11 {
+  margin-top: 11rem;
+}
+
 .myNav {
   padding: 2rem;
   font-size: 1.4rem;
 }
 
+.img-box {
+  width: 100%;
+  height: 18rem;
+  object-fit: cover;
+}
+
 .img {
-  height: 25rem;
+  height: 100%;
   width: 100%;
 }
 
@@ -30,5 +40,14 @@ body {
 @media screen and (max-width: 576px) {
   html {
     font-size: 13px !important;
+  }
+  .mgt-11 {
+    margin-top: 4rem;
+  }
+  .main-img4 img {
+    padding-bottom: 1rem;
+  }
+  .start-0 {
+    display: none;
   }
 }
