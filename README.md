@@ -20,8 +20,7 @@
 
 
 ## 🛠 사용 기술
-  <img src="https://github.com/user-attachments/assets/da17a7a9-13a9-4874-9276-1edd112322eb" style="width:550px; height:300px;" alt="Example Image">
-
+  <img src="https://github.com/user-attachments/assets/f0636177-61a9-470d-81b9-886a1676e182" style="width:550px; height:300px;" alt="Example Image">
 
 
 
