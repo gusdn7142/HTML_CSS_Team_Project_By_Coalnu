@@ -4,9 +4,10 @@
 - 목표 : 패션을 사랑하는 공통 분모를 찾아 의류 쇼핑몰 페이지를 구현하는 것을 목표로 하였습니다.
 - 기간 : 2024년 6월 2일 ~ 2024년 6월 9일 
 - 팀 구성 : 프론트 4명 (11조)  
-  <img src="https://github.com/user-attachments/assets/89266d59-477e-41e8-91f5-f5a12d875864" style="width:500px; height:130px;" alt="Example Image">
+  <img src="https://github.com/user-attachments/assets/418f850f-d3f1-4783-af09-d3c16329f6a8" style="width:500px; height:130px;" alt="Example Image">
 - 역할 : Scrum Master & Frontend Developer
 - 결과 : 14팀 중 4등
+
 
 </br>
 
@@ -32,31 +33,34 @@
 <details>
   <summary> 1. 메인 페이지 </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/62120fcc-76eb-4161-8c59-985e3d08c1c7" style="width:800px; height:1300px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/bec9d60f-ee7d-4ba2-a3e1-30951a449ea9" style="width:800px; height:1300px;" alt="Example Image">
   </div>
 </details>
+
 
 <details>
   <summary> 2. 카테고리 페이지 (Men) </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/8c402d90-2ff5-445b-938c-f434e5295d21" style="width:1200px; height:600px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/eabd9a2c-6dc8-4c1f-bfcd-6fb054b80eb4" style="width:1200px; height:600px;" alt="Example Image">
   </div>
 </details>
+
 
 <details>
   <summary> 3. 상세 페이지 </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/7aeb0d82-abe1-452a-8a93-901ad02ac781" style="width:1200px; height:600px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/201c9fb0-90fe-459d-bbe4-1f8ed5d39395" style="width:1200px; height:600px;" alt="Example Image">
   </div>
 </details>
+
+
 
 <details>
   <summary> 4. 이벤트 페이지 </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/502f53dd-b81a-4de7-8569-dafe25372af5" style="width:800; height:600px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/7f3801e3-cd53-449a-af48-c9546e11cda7" style="width:800; height:600px;" alt="Example Image">
   </div>
 </details>
-
 
 
 
@@ -74,9 +78,10 @@
 <details>
   <summary> Layout Design </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/8bf3a3b2-4a7c-49ce-a164-a0be1920fde9" style="width:948; height:430px;" alt="Example Image">        
+    <img src="https://github.com/user-attachments/assets/482db718-dcbd-4b4e-bebf-64657f183d3a" style="width:948; height:430px;" alt="Example Image">        
   </div>
 </details>  
+
     
 <details>
   <summary> Class Naming </summary>
@@ -137,9 +142,10 @@
 <details>
   <summary> Layout Design </summary>
   <div markdown="1">
-    <img src="https://github.com/user-attachments/assets/081c7e34-5cae-4823-81fe-405b2bdad170" style="width:1012; height:148px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/c6b198fa-4793-45fd-8e91-722e21617c68" style="width:1012; height:148px;" alt="Example Image">
   </div>
 </details>  
+
 
 
 <details>
@@ -172,9 +178,10 @@
   <summary> Media Query Apply </summary>
   <div markdown="1">
     <br>
-    <img src="https://github.com/user-attachments/assets/f97309fa-15e5-4292-8280-2be5eb0656a7" style="width:1012px; height:860px;" alt="Example Image">
+    <img src="https://github.com/user-attachments/assets/1ad92512-b90b-44ca-9569-28acf041c058" style="width:1012px; height:860px;" alt="Example Image">
   </div>
 </details>  
+
 
 
 
